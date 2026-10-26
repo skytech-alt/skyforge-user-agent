@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-user-agent"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Определение мобильный/десктоп по User-Agent."
+    репозиторий = "github.com/skytech-alt/skyforge-user-agent"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
